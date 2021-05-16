@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "712545561189",
+    "project_id": "antara-ec6b5",
+    "storage_bucket": "antara-ec6b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712545561189:android:21e45b947d8f4bca04748c",
+        "android_client_info": {
+          "package_name": "com.example.antara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712545561189-s3l4tdf16vi3dl96guk4nbtj5ndr05qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antara",
+            "certificate_hash": "6f0051887d799f2467358c0e990d1d833eb38826"
+          }
+        },
+        {
+          "client_id": "712545561189-bu9kck657s7u4bebjqg9qsiun8f9j9ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlhUw9rieqnk3RfaoUqs5Pk-PedN8mPUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712545561189-bu9kck657s7u4bebjqg9qsiun8f9j9ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
