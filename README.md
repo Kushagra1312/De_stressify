@@ -25,7 +25,7 @@ The features include :
 
 ## How To Use this App:
 
-To use this app download and install the apk file in you android smartphone.
+To use this app download [here](https://drive.google.com/file/d/1y5Noagq0156TV4JHucYdig85GZfZDeOy/view?usp=sharing) and install the apk file in you android smartphone.
 <hr>
 
 ## Getting Started
